@@ -33,7 +33,7 @@ export KBUILD_BUILD_HOST="manjotsidhu"
 compile_kernel ()
 {
 echo -e "$blue***********************************************"
-echo "          Compiling DarkNight kernel          "
+echo "          Compiling DarKnight kernel          "
 echo -e "***********************************************$nocol"
 make a369i_defconfig
 make -j2
